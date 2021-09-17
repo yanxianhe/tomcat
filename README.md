@@ -1,7 +1,7 @@
 # tomcat:8.5-alpine
 
 #### 制作docker 镜像基于 tomcat:8.5-alpine
-> 需要一个安装docker 机器可以上互联网,也可借助registry.hub.docker.com构建
+> 需要一个安装docker 机器可以上互联网,也可借助registry.hub.docker.com构建[已经收费了]
 
 #### 快速构建dockerfile
 
